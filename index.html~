@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ejercicio 1</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<div id="container">
+		<header><h1>Bienvenidos</h1>
+		</header>
+		<nav></nav>
+		
+		<form action="action_page.php">
+			  Nombre:<br>
+			  <input type="text" name="Nombre" value="Wolfwang">
+			  <br>
+			  Contraseña:<br>
+			  <input type="text" name="Contraseña" value="Augusto">
+			  <br><br>
+			  <input type="submit" value="Acceder">
+		</form>
+
+		</section>
+		<footer></footer>
+	</div>
+</body>
+</html>

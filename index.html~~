@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ejercicio 1</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<div id="container">
+		<header>Hola mundooooooo</header>
+		<nav></nav>
+		<aside></aside>
+		<section>
+
+		</section>
+		<footer></footer>
+	</div>
+</body>
+</html>

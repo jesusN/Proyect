@@ -1,0 +1,54 @@
+	
+	body{
+		background: yellow;
+		background-image: url("/home/lab/Escritorio/fondo.jpg");
+	}
+	#continer header, nav, aside, section, footer
+	{	
+		border-radius: 200px 200px;
+	}
+
+	#container{
+		
+		width: 50%;
+		background: blue;
+		margin: auto;
+		padding: 20px;
+	}
+		
+	header{
+		background: red;
+		
+		margin: 10px;
+	}
+	header h1{
+		text-align:center;
+		padding: 10px 5px
+	}
+
+	nav{
+		height: 50px;
+		background: green;
+	}
+
+	aside{
+		border-radius: 10px 10px;	
+		height: 500px;
+		width: 30%;
+		float: left;
+		background: purple;
+	}
+
+	section{
+		margin-bottom; 10px;
+		
+		width: 20%;
+		float: left;
+		background: black;
+	}
+
+	footer{
+		height: 20px;
+		clear: both;
+		background: blue;
+	}
